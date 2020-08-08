@@ -1,0 +1,12 @@
+[Core]
+Name = AnonymousReports
+Module = report
+
+[Documentation]
+Description = Allow anonymous reporting of messages to admins via the bot
+
+[Python]
+Version = 3
+
+[Errbot]
+min = 5.2.0

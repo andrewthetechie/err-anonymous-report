@@ -1,0 +1,5 @@
+errbot
+pytest
+pytest-env
+pytest-mock
+pytest-pep8
